@@ -15,13 +15,13 @@
 
 ## SGBDR/IDEs
 <div style="display: inline_block">
-  <img align="center" alt="mySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="androidStudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img align="center" alt="visualStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img align="center" alt="apacheNetBeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
+  <img align="center" alt="mySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=red" />
+  <img align="center" alt="androidStudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=red" />
+  <img align="center" alt="visualStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=red" />
+  <img align="center" alt="apacheNetBeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=red" />
 </div><br/>
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ribarski-Vitor&show_icons=true&theme=dark)
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ribarski-Vitor&show_icons=true&theme=white)
 
 <!--
 **ribarski-Vitor/ribarski-Vitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
