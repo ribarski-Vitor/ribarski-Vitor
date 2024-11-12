@@ -1,8 +1,8 @@
-## Olá, Eu sou o Vitor 👋
+## Opa, Aqui é o Vitor!!!!! 👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_ribarski/?next=%2F)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-ribarski-583080240/)
 
-## Skills
+## HABILIDADES
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -13,7 +13,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribarski-Vitor&layout=compact)
 
-## SGBDR/IDEs
+## Sistema de gestão de banco de dados relacional/IDEs (Integrated Development Environment)
 <div style="display: inline_block">
   <img align="center" alt="mySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=red" />
   <img align="center" alt="androidStudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=red" />
